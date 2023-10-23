@@ -9,13 +9,13 @@ Wir möchten auf die Folgen der Klimaerwärmung und des Kapitalismus in Form ein
 “EcoHarvest” legt den Fokus auf die Herausforderungen der Klimaerwärmung, mit denen sich lokale (Bio-)Landwirte konfrontiert sehen. Außerdem wird ein großes Augenmerk auf gutes Storytelling gelegt, damit sich der Spieler in die Situation reinversetzen kann und merkt, welche Probleme Landwirte treffen können. 
 Außerdem sollte darauf aufmerksam gemacht werden, wie große Firmen diese Situation oft verschlimmern [3].
 
-Das Spiel wird im 2.5D Pixel-Art Style gemacht und wahrscheinlich mit Unity oder Unreal Engine programmiert. Der spielerische Ansatz wurde gewählt, um einen Anreiz für die Stakeholder zu finden, sich auf diese Weise mit der Thematik auseinanderzusetzen. ([2]) Der Fokus des Entwicklungsprojekts liegt darauf, ein interessantes und fesselndes Spielerlebnis zu erschaffen, welches durch das Erforschen verschiedener Entscheidungsstränge eine gewisse Wiederspielbarkeit (“replayability”) schafft. So kann der Spieler beobachten, wie sich verschiedene Entscheidungen ausspielen und somit ein differenziertes Verständnis von der Komplexität der Zusammenwirkung von Umweltfreundlichkeit und Kapitalismus entwickeln.
+Das Spiel wird im 2.5D Pixel-Art Style gemacht und wahrscheinlich mit Unity oder Unreal Engine programmiert. Der spielerische Ansatz wurde gewählt, um einen Anreiz für die Stakeholder zu finden, sich auf diese Weise mit der Thematik auseinanderzusetzen (53% der Deutschen spielen Videospiele (dafür 80% auf Laptop/Notebook)) ([2]) Der Fokus des Entwicklungsprojekts liegt darauf, ein interessantes und fesselndes Spielerlebnis zu erschaffen, welches durch das Erforschen verschiedener Entscheidungsstränge eine gewisse Wiederspielbarkeit (“replayability”) schafft. So kann der Spieler beobachten, wie sich verschiedene Entscheidungen ausspielen und somit ein differenziertes Verständnis von der Komplexität der Zusammenwirkung von Umweltfreundlichkeit und Kapitalismus entwickeln.
 
 
 Quellen:
 
 [1] Ostdeutschland - Wenn der Investor den Acker besitzt. Hintergrund. (Deutschlandfunk). 14.09.2023. https://spotify.link/BzACU5JTYDb 
 
-[2] https://www.statista.com/study/31752/video-games-in-germany-statista-dossier/
+[2] Share of computer and video game players in Germany 2013-2023. Bitcom; Bitcom Research. S. 28. | Gaming device preferences in Germany 2023. Bitcom. S. 32. https://www.statista.com/study/31752/video-games-in-germany-statista-dossier/
 
 [3] https://www.bpb.de/themen/umwelt/landwirtschaft/325872/wachsen-oder-weichen-deutsche-landwirtschaft-im-strukturwandel/
