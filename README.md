@@ -2,7 +2,7 @@
 
 ## Exposé: EcoHarvest
 
-# „In der aktuellen gesellschaftlichen Debatte über die anstehende Transformation unserer Landwirtschaft hin zu mehr Nachhaltigkeit ist die soziale Dimension bislang unterbelichtet“ [1]
+### „In der aktuellen gesellschaftlichen Debatte über die anstehende Transformation unserer Landwirtschaft hin zu mehr Nachhaltigkeit ist die soziale Dimension bislang unterbelichtet“ [1]
 
 In der heutigen Gesellschaft, in der ein wachsender Teil der Bevölkerung kaum noch Berührungspunkte mit der landwirtschaftlichen Realität hat, entsteht immer eine Kluft zwischen dem Verständnis und den Interessen der städtischen Bevölkerung sowie den Bedürfnissen und Anliegen derjenigen, die in ländlichen Gebieten von der Landwirtschaft abhängig sind [1]. Dieses Missverständnis wird besonders deutlich, wenn man betrachtet, dass nur noch rund 2% aller deutschen Erwerbstätigen in der Landwirtschaft tätig sind im Vergleich zu etwa 38% zu Beginn des 20. Jahrhunderts [2]. Diese Soziale Diskrepanz verschärft sich in Zeiten von zunehmender Polarisierung, Hate-Speech und Cancel-Culture. 
 
