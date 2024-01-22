@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Data;
 using UnityEngine;
+using System.Xml.Linq;
 
 namespace DataBank
 {
@@ -52,6 +53,8 @@ namespace DataBank
         
         public EntscheidungTable() : base() // nimmt Konstruktor von "super" class
         {
+
+            
             /*
         	IDbCommand dbcmd = getDbCommand();
         	dbcmd.CommandText = "CREATE TABLE "Entscheidung" (
@@ -122,6 +125,20 @@ namespace DataBank
                                 "WHERE Entscheidung.entscheidung_id = " + entscheidungId;
             Debug.Log("huge join start" + dbcmd.CommandText);
             return dbcmd.ExecuteReader();
+        }
+
+        public IDataReader GetDataByPhase(string phase) {
+            
+            if(db_connection.State != ConnectionState.Open) {
+                db_connection.Open();
+            }
+
+            Debug.Log("getting data by phase");
+            IDbCommand dbcmd = getDbCommand();
+            dbcmd.CommandText = "SELECT entscheidung_id FROM Entscheidung WHERE entscheidung_phase='" + phase + "' ";
+            return dbcmd.ExecuteReader();
+
+
         }
         
 	}
